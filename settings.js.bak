@@ -1,13 +1,13 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6288991078377','6288991078377']
-global.premium = ['6288991078377']
+global.owner = ['6288271707571','6288271707571']
+global.premium = ['6288271707571']
 global.packname = ''
 global.author = 'Wa :6288991078377\nYT : Nabb Botz×\nIG : Nabb Botzx\nGH : WibsBotz\nTT : yt_Wibzbotz'
-global.sessionName = 'Wibs Botz'
-global.namabotnya = 'Nabb Botz'
-global.namaownernya = 'Nabb Botz'
+global.sessionName = 'Dill Botz'
+global.namabotnya = 'Dill Botz'
+global.namaownernya = 'Dill Store'
 global.dapkey = 'Kirbotz123'
 global.lolkey = 'Atakbotz'
 global.kirkey = 'KirBotz'
