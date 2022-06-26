@@ -1,8 +1,8 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6288271707571']
-global.premium = ['6288271707571']
+global.owner = ['6288708231116']
+global.premium = ['6288708231116']
 global.packname = ''
 global.author = 'Wa :62882016646288\nYT : WANGAMING\nIG : wz_store12\nGH : WibsBotz\nTT : wz_store12'
 global.sessionName = 'Dill'
@@ -11,9 +11,9 @@ global.namaownernya = 'Dill Store'
 global.dapkey = 'Kirbotz123'
 global.lolkey = 'Atakbotz'
 global.kirkey = 'KirBotz'
-global.wame = 'https://wa.me/62882016646288'
+global.wame = 'https://wa.me/6288708231116'
 global.gckirbotz = 'https://chat.whatsapp.com/L1xzgFdSo3JFu8yXeTtrbM'
-global.ownerNumber = ["62882016646288@s.whatsapp.net"]
+global.ownerNumber = ["6288708231116@s.whatsapp.net"]
 global.email = 'gamingwan92@gmail.com'
 global.yt = 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
 global.webkir = 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
